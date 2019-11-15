@@ -4,4 +4,4 @@
 |Date|Topics/Contents|Presenter/Leader|Resources|
 |----|---------------|----------------|---------|
 |Oct 14|{::nomarkdown}<ul><li>Content-based QA (Dynamic and Smart QA Systems)</li><li>Medical QA</li><li>Proofreading for Jie’s WWW paper</li></ul>{:/}|Bernhard Kratzwald<br>Tommy Yue||
- 
+|Oct 28 |Pre-trained Languge Model|Xiang Deng|https://github.com/thunlp/PLMpapers|

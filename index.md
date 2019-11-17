@@ -1,5 +1,5 @@
 # Reading Group Schedule — Fall 2019
-## Monday 10:00 am (every two weeks), EC0338
+## Monday 10:00 am, EC0338
   
 |Date|Topics/Contents|Presenter/Leader|Resources|
 |----|---------------|----------------|---------|

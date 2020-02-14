@@ -4,7 +4,7 @@
 |Date|Topics/Contents|Presenter/Leader|Resources|
 |----|---------------|----------------|---------|
 |Feb 12| Proofreading for KDD’20 submissions|||
-|Feb 5| Knowledge Extraction: <li><a href=“https://arxiv.org/pdf/1902.00913.pdf”>Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings</a></li>| Bernal Jimenez Gutierrez ||
+|Feb 5| Knowledge Extraction: {::nomarkdown}<a href=“https://arxiv.org/pdf/1902.00913.pdf”>Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings</a>{:/}| Bernal Jimenez Gutierrez ||
 |Jan 29| Proofreading for KDD’20 submissions|||
 |Jan 22| Proofreading for KDD’20 submissions|||
 |Jan 15| Proofreading for KDD’20 submissions|||

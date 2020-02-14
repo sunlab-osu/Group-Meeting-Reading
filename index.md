@@ -1,5 +1,6 @@
 # Reading Group Schedule — Spring 2020
 ## Wednesday 10:00 am, Caldwell Lab 220
+
 |Date|Topics/Contents|Presenter/Leader|Resources|
 |----|---------------|----------------|---------|
 |Feb 12| Proofreading for KDD’20 submissions|||

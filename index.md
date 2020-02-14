@@ -4,7 +4,7 @@
 |Date|Topics/Contents|Presenter/Leader|Resources|
 |----|---------------|----------------|---------|
 |Feb 12| Proofreading for KDD’20 submissions|||
-|Feb 5| Knowledge Extraction: {::nomarkdown}<a href=“https://arxiv.org/pdf/1902.00913.pdf”>Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings</a>{:/}| Bernal Jimenez Gutierrez ||
+|Feb 5| Knowledge Extraction: {::nomarkdown}<a href=“https://arxiv.org/pdf/1902.00913.pdf”>Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings</a>{:/}| Bernal Jimenez Gutierrez |{::nomarkdown}<ul><li><a href=“https://www.aclweb.org/anthology/P18-2057.pdf”>Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora</a></li><li><a href=“https://www.aclweb.org/anthology/C92-2082.pdf”>Automatic Acquisition of Hyponyms from Large Text Corpora</a></li><li><a href=“https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf”>Poincaré Embeddings for Learning Hierarchical Representations</a></li></ul>{:/}|
 |Jan 29| Proofreading for KDD’20 submissions|||
 |Jan 22| Proofreading for KDD’20 submissions|||
 |Jan 15| Proofreading for KDD’20 submissions|||
